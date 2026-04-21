@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "Test dataset for DataJoint uploads to DANDI",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Bakshi, Kushal"
+    ],
     "License": "CC0-1.0",
     "GeneratedBy": [
         {
